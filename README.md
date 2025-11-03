@@ -1,2 +1,2 @@
 # uriqine
-My profolio v1 
+> new interface for my portfolio
