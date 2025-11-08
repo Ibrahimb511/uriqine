@@ -1,6 +1,6 @@
 <!-- Bannière animée -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0AF7F7&center=true&vCenter=true&width=600&lines=Salut%2C+je+suis+Uriqine+👋;Développeur+Fullstack+Autodidacte;Passionné+par+le+Web+moderne+🌍;Toujours+en+quête+d’innovation+🚀" alt="Typing SVG" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDgxY3BubWJlNTJ5a2p4N3psczM1dnZ1ZzZ0emI3dDR1MXV4emZpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" />
 </h1>
 
 ---
