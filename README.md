@@ -25,7 +25,6 @@
 
 ## ⚡ À propos de moi
 
-> “Le code, c’est comme la magie : il suffit d’une idée, et tout prend vie.”
 
 - 🚀 Je développe des applications web modernes & performantes  
 - 🧠 J’apprends chaque jour pour repousser mes limites  
