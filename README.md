@@ -1,9 +1,8 @@
-<!-- Bannière animée -->
+
 <h1 align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDgxY3BubWJlNTJ5a2p4N3psczM1dnZ1ZzZ0emI3dDR1MXV4emZpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" />
 </h1>
 
----
 
 <p align="center">
   💻 <strong>Fullstack Developer</strong> | 🌱 <strong>Autodidacte</strong> | ⚡ <strong>Créatif & Curieux</strong>  
@@ -59,30 +58,9 @@
 
 ## 📊 Mes Statistiques GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uriqine&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uriqine&theme=tokyonight" height="160"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ibrahimb511&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uriqine&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
-## 🏗️ Projets Récents
-
-| Projet | Description | Technologies |
-|--------|--------------|---------------|
-| 🌐 **Portfolio** | Mon site personnel avec animations fluides et responsive design | React, Tailwind, Vite |
-| 🧠 **API AI Chatbot** | Assistant conversationnel basé sur GPT | Node.js, FastAPI |
-| 📱 **App To-Do Cloud** | Application web fullstack avec authentification | Next.js, MongoDB |
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=uriqine&theme=dracula&margin-w=10&no-frame=true&column=7" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahimb511&layout=compact&theme=radical)
 
 ---
 
